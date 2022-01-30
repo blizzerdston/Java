@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Roster</label>
+	</settings>
+	<users>
+		<user>
+			<path>Roster.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Roster.jcp</path>
+		</project>
+	</projects>
+</workspace>

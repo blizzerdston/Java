@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>DiceRolls</label>
+	</settings>
+	<users>
+		<user>
+			<path>DiceRolls.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>DiceRolls.jcp</path>
+		</project>
+	</projects>
+</workspace>
